@@ -32,5 +32,5 @@ const getPrice = () => {
 
 getPrice()
 
-//mise à jour toutes les 20 sec
-setInterval(getPrice, 20000)
+//mise à jour toutes les 10 sec
+setInterval(getPrice, 10000)
